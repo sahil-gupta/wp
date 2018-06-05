@@ -1,0 +1,21 @@
+{
+  "name": "Wordplay",
+  "version": "0.0.0",
+  "description": "Movable type",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sahil-gupta/wp.git"
+  },
+  "author": "Sahil Gupta",
+  "license": "MIT",
+  "scripts": {
+    "build": "node build.js",
+    "lint": "jshint src test/*.js && jscs src test/*.js",
+  },
+  "devDependencies": {
+    "buildify": "*",
+    "jscs": "2.11.0",
+    "jshint": "2.9.1",
+    "ls": "0.2.1"
+  }
+}
