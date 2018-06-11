@@ -1,0 +1,146 @@
+body {
+    font-family: 'Spectral', sans-serif;
+    min-height: 740px;
+
+    background: #0077f7;
+    color: white;
+}
+
+b, strong { font-weight: bold }
+i, em { font-style: italic }
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+/* presentation steps */
+
+.step {
+    position: relative;
+    width: 600px;
+    padding: 40px;
+    margin: 20px auto;
+    text-align: left;
+
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing:    border-box;
+    -ms-box-sizing:     border-box;
+    -o-box-sizing:      border-box;
+    box-sizing:         border-box;
+
+    font-family: 'Spectral', serif;
+    font-size: 64px;
+    line-height: 1.5;
+    text-shadow: 0 2px 2px rgba(0, 0, 0, .1);
+}
+
+/* remove margin. make inactive steps a bit transparent */
+.impress-enabled .step {
+    margin: 0;
+    opacity: 0.3;
+
+    -webkit-transition: opacity 1s;
+    -moz-transition:    opacity 1s;
+    -ms-transition:     opacity 1s;
+    -o-transition:      opacity 1s;
+    transition:         opacity 1s;
+}
+
+.impress-enabled .step.active { opacity: 1 }
+
+/*.future {
+  display: none;
+}*/
+/*.past {
+  display: none;
+}*/
+
+
+
+/* to position span elements in 3d */
+#its-in-3d p {
+    -webkit-transform-style: preserve-3d;
+    -moz-transform-style:    preserve-3d;
+    -ms-transform-style:     preserve-3d;
+    -o-transform-style:      preserve-3d;
+    transform-style:         preserve-3d;
+}
+#its-in-3d span,
+#its-in-3d b {
+    display: inline-block;
+    -webkit-transform: translateZ(-40px);
+    -moz-transform:    translateZ(-40px);
+    -ms-transform:     translateZ(-40px);
+    -o-transform:      translateZ(-40px);
+     transform:        translateZ(-40px);
+
+    -webkit-transition: 0.5s;
+    -moz-transition:    0.5s;
+    -ms-transition:     0.5s;
+    -o-transition:      0.5s;
+    transition:         0.5s;
+}
+#its-in-3d.present span,
+#its-in-3d.present b {
+    -webkit-transform: translateZ(0px);
+    -moz-transform:    translateZ(0px);
+    -ms-transform:     translateZ(0px);
+    -o-transform:      translateZ(0px);
+    transform:         translateZ(0px);
+}
+
+/* overview has not content. make invisible */
+#overview {
+    display: none;
+    pointer-events: none;
+}
+/* make other steps visible and give them pointer cursor */
+.impress-on-overview .step {
+    opacity: 1;
+    cursor: pointer;
+}
+
+/* toolbar plugin */
+.impress-enabled div#impress-toolbar {
+    position: fixed;
+    left: 5px;
+    top: 5px;
+    opacity: 0.6;
+    z-index: 10;
+}
+.impress-enabled div#impress-toolbar > span {
+    margin-right: 10px;
+}
+/* use mouse-timeout plugin to hide toolbar and cursor */
+body.impress-mouse-timeout div#impress-toolbar {
+    display: none;
+}
+body.impress-mouse-timeout {
+    cursor: none;
+}
+
+/* progress bar */
+.impress-progressbar {
+  position: absolute;
+  right: 110px;
+  bottom: 20px;
+  left: 110px;
+  border-radius: 2px;
+  border: 2px solid rgba(100, 100, 100, 0.2);
+}
+.impress-progressbar div {
+  width: 0;
+  height: 10px;
+  border-radius: 2px;
+  background: rgba(75, 75, 75, 0.4);
+  transition: width 1s linear;
+}
+.impress-progress {
+  position: absolute;
+  left: 59px;
+  bottom: 1px;
+  text-align: left;
+  font-size: 10pt;
+  opacity: 0.6;
+}
