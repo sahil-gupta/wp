@@ -3,8 +3,10 @@ body {
     min-height: 740px;
 
     /*background: #192a56;*/
-    background: #44bd32;
-    color: #f5f6fa;
+    /*background: #44bd32;*/
+    background: white;
+    /*color: #f5f6fa;*/
+    color: black;
 }
 b, strong {
     font-weight: bold;
@@ -30,10 +32,16 @@ a {
     -o-box-sizing:      border-box;
     box-sizing:         border-box;
 
-    font-family: 'Raleway', serif;
+    font-family: 'IBM Plex Sans', serif;
     font-size: 50px;
     line-height: 1.5;
     text-shadow: 0 2px 2px rgba(0, 0, 0, .1);
+
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+}
+.step.lotsoftext {
+    font-size: 30px;
 }
 
 /* remove margin. make inactive steps a bit transparent */

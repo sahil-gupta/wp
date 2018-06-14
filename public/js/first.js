@@ -1,13 +1,6 @@
 $(function() {
 
-// $.get("temptext.txt", function(data) {
-//     $('#impress').append(data);
-//
-//     var api = impress();
-//     api.init();
-// });
-
-$.get("temptext2.txt", function(data) {
+$.get("temptext3.txt", function(data) {
     $('#impress').append(data);
 
     var api = impress();
