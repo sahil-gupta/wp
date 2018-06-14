@@ -4,9 +4,10 @@ body {
 
     /*background: #192a56;*/
     /*background: #44bd32;*/
-    background: white;
-    /*color: #f5f6fa;*/
-    color: black;
+    /*background: white;*/
+    background: #2e86de;
+    color: #f5f6fa;
+    /*color: black;*/
 }
 b, strong {
     font-weight: bold;
@@ -24,7 +25,7 @@ a {
     width: 1000px;
     padding: 40px;
     margin: 20px auto;
-    text-align: lecft;
+    text-align: left;
 
     -webkit-box-sizing: border-box;
     -moz-box-sizing:    border-box;
@@ -32,16 +33,29 @@ a {
     -o-box-sizing:      border-box;
     box-sizing:         border-box;
 
-    font-family: 'IBM Plex Sans', serif;
-    font-size: 50px;
+    font-family: 'Reenie Beanie', serif;
+    font-size: 60px;
     line-height: 1.5;
     text-shadow: 0 2px 2px rgba(0, 0, 0, .1);
 
     -webkit-backface-visibility: hidden;
     backface-visibility: hidden;
 }
-.step.lotsoftext {
-    font-size: 30px;
+.step.fontA {
+    font-size: 50px;
+}
+.step.fontB {
+    font-size: 50px;
+}
+
+body.impress-mobile .step {
+    display:none;
+}
+body.impress-mobile .step.active,
+body.impress-mobile .step.present,
+body.impress-mobile .step.next,
+body.impress-mobile .step.prev {
+    display:block;
 }
 
 /* remove margin. make inactive steps a bit transparent */
@@ -49,18 +63,19 @@ a {
     margin: 0;
     opacity: 0.2;
 
-    -webkit-transition: opacity 1s;
-    -moz-transition:    opacity 1s;
-    -ms-transition:     opacity 1s;
-    -o-transition:      opacity 1s;
-    transition:         opacity 1s;
+    -webkit-transition: opacity .5s;
+    -moz-transition:    opacity .5s;
+    -ms-transition:     opacity .5s;
+    -o-transition:      opacity .5s;
+    transition:         opacity .5s;
 }
 
 .impress-enabled .step.active { opacity: 1 }
 
-/*.future {
-  display: none;
-}*/
+.impress-enabled .step.future {
+  /*display: none;*/
+  opacity: .1;
+}
 /*.past {
   display: none;
 }*/
