@@ -1,6 +1,6 @@
 $(function() {
 
-$.get("temptext4.txt", function(data) {
+$.get("temptext.txt", function(data) {
 
     $('#impress-first').append(data);
     var api = impress('impress-first');

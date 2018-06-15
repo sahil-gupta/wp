@@ -11,97 +11,97 @@
         </p>
      </div>
     
-     <div class="step " data-x="200" data-y="-260" data-z="600" data-scale="1" data-autoplay="0.45" data-transition-duration="500" >
+     <div class="step " data-x="200" data-y="-260" data-z="600" data-scale="1" data-autoplay="0.72" data-transition-duration="500" >
         <p>
             Good evening, everybody
         </p>
      </div>
     
-     <div class="step " data-x="300" data-y="-390" data-z="900" data-scale="1" data-autoplay="0.55" data-transition-duration="500" >
+     <div class="step " data-x="300" data-y="-390" data-z="900" data-scale="1" data-autoplay="0.88" data-transition-duration="500" >
         <p>
             It is an honor to be here at my last
         </p>
      </div>
     
-     <div class="step " data-x="400" data-y="-520" data-z="1200" data-scale="1" data-autoplay="0.3" data-transition-duration="500" >
+     <div class="step " data-x="400" data-y="-520" data-z="1200" data-scale="1" data-autoplay="0.4" data-transition-duration="500" >
         <p>
             and perhaps the last
         </p>
      </div>
     
-     <div class="step " data-x="500" data-y="-650" data-z="1500" data-scale="1" data-autoplay="0.4" data-transition-duration="500" >
+     <div class="step " data-x="500" data-y="-650" data-z="1500" data-scale="1" data-autoplay="0.64" data-transition-duration="500" >
         <p>
             White House Correspondents’ Dinner
         </p>
      </div>
     
-     <div class="step " data-x="600" data-y="-780" data-z="1800" data-scale="1" data-autoplay="0.3" data-transition-duration="500" >
+     <div class="step " data-x="600" data-y="-780" data-z="1800" data-scale="1" data-autoplay="0.32" data-transition-duration="500" >
         <p>
             You all look great
         </p>
      </div>
     
-     <div class="step " data-x="700" data-y="-910" data-z="2100" data-scale="1" data-autoplay="0.65" data-transition-duration="500" >
+     <div class="step " data-x="700" data-y="-910" data-z="2100" data-scale="1" data-autoplay="1.04" data-transition-duration="500" >
         <p>
             The end of the Republic has never looked better
         </p>
      </div>
     
-     <div class="step " data-x="800" data-y="-1040" data-z="2400" data-scale="1" data-autoplay="0.3" data-transition-duration="500" >
+     <div class="step " data-x="800" data-y="-1040" data-z="2400" data-scale="1" data-autoplay="0.48" data-transition-duration="500" >
         <p>
             I do apologize
         </p>
      </div>
     
-     <div class="step " data-x="900" data-y="-1170" data-z="2700" data-scale="1" data-autoplay="0.5" data-transition-duration="500" >
+     <div class="step " data-x="900" data-y="-1170" data-z="2700" data-scale="1" data-autoplay="0.8" data-transition-duration="500" >
         <p>
             I know I was a little late tonight
         </p>
      </div>
     
-     <div class="step " data-x="1000" data-y="-1300" data-z="3000" data-scale="1" data-autoplay="0.4" data-transition-duration="500" >
+     <div class="step " data-x="1000" data-y="-1300" data-z="3000" data-scale="1" data-autoplay="0.64" data-transition-duration="500" >
         <p>
             I was running on C.P.T.
         </p>
      </div>
     
-     <div class="step " data-x="1100" data-y="-1430" data-z="3300" data-scale="1" data-autoplay="0.55" data-transition-duration="500" >
+     <div class="step " data-x="1100" data-y="-1430" data-z="3300" data-scale="1" data-autoplay="0.88" data-transition-duration="500" >
         <p>
             which stands for “jokes that white people should not make.”
         </p>
      </div>
     
-     <div class="step " data-x="1200" data-y="-1560" data-z="3600" data-scale="1" data-autoplay="0.35" data-transition-duration="500" >
+     <div class="step " data-x="1200" data-y="-1560" data-z="3600" data-scale="1" data-autoplay="0.56" data-transition-duration="500" >
         <p>
             It’s a tip for you, Jeff
         </p>
      </div>
     
-     <div class="step " data-x="1300" data-y="-1690" data-z="3900" data-scale="1" data-autoplay="0.3" data-transition-duration="500" >
+     <div class="step " data-x="1300" data-y="-1690" data-z="3900" data-scale="1" data-autoplay="0.48" data-transition-duration="500" >
         <p>
             Anyway, here we are
         </p>
      </div>
     
-     <div class="step " data-x="1400" data-y="-1820" data-z="4200" data-scale="1" data-autoplay="0.75" data-transition-duration="500" >
+     <div class="step " data-x="1400" data-y="-1820" data-z="4200" data-scale="1" data-autoplay="1.2" data-transition-duration="500" >
         <p>
             My eighth and final appearance at this unique event.
         </p>
      </div>
     
-     <div class="step " data-x="1500" data-y="-1950" data-z="4500" data-scale="1" data-autoplay="0.3" data-transition-duration="500" >
+     <div class="step " data-x="1500" data-y="-1950" data-z="4500" data-scale="1" data-autoplay="0.48" data-transition-duration="500" >
         <p>
             And I am excited
         </p>
      </div>
     
-     <div class="step " data-x="1600" data-y="-2080" data-z="4800" data-scale="1" data-autoplay="1" data-transition-duration="500" >
+     <div class="step " data-x="1600" data-y="-2080" data-z="4800" data-scale="1" data-autoplay="1.6" data-transition-duration="500" >
         <p>
             If this material works well, I’m going to use it at Goldman Sachs next year.
         </p>
      </div>
     
-     <div class="step " data-x="1700" data-y="-2210" data-z="5100" data-scale="1" data-autoplay="0.4" data-transition-duration="500" >
+     <div class="step " data-x="1700" data-y="-2210" data-z="5100" data-scale="1" data-autoplay="0.64" data-transition-duration="500" >
         <p>
             Earn me some serious Tubmans
         </p>
@@ -113,79 +113,79 @@
         </p>
      </div>
     
-     <div class="step " data-x="1900" data-y="-2470" data-z="5700" data-scale="1" data-autoplay="0.75" data-transition-duration="500" >
+     <div class="step " data-x="1900" data-y="-2470" data-z="5700" data-scale="1" data-autoplay="1.2" data-transition-duration="500" >
         <p>
             My brilliant and beautiful wife, Michelle, is here tonight.
         </p>
      </div>
     
-     <div class="step " data-x="2000" data-y="-2600" data-z="6000" data-scale="1" data-autoplay="0.4" data-transition-duration="500" >
+     <div class="step " data-x="2000" data-y="-2600" data-z="6000" data-scale="1" data-autoplay="0.64" data-transition-duration="500" >
         <p>
             She looks so happy to be here.
         </p>
      </div>
     
-     <div class="step " data-x="2100" data-y="-2730" data-z="6300" data-scale="1" data-autoplay="0.3" data-transition-duration="500" >
+     <div class="step " data-x="2100" data-y="-2730" data-z="6300" data-scale="1" data-autoplay="0.4" data-transition-duration="500" >
         <p>
             That’s called practice
         </p>
      </div>
     
-     <div class="step " data-x="2200" data-y="-2860" data-z="6600" data-scale="1" data-autoplay="0.55" data-transition-duration="500" >
+     <div class="step " data-x="2200" data-y="-2860" data-z="6600" data-scale="1" data-autoplay="0.88" data-transition-duration="500" >
         <p>
             it’s like learning to do three-minute planks.
         </p>
      </div>
     
-     <div class="step " data-x="2300" data-y="-2990" data-z="6900" data-scale="1" data-autoplay="0.35" data-transition-duration="500" >
+     <div class="step " data-x="2300" data-y="-2990" data-z="6900" data-scale="1" data-autoplay="0.56" data-transition-duration="500" >
         <p>
             She makes it look easy now.
         </p>
      </div>
     
-     <div class="step fontA" data-x="2400" data-y="-3120" data-z="7200" data-scale="1" data-autoplay="1.55" data-transition-duration="500" >
+     <div class="step fontA" data-x="2400" data-y="-3120" data-z="7200" data-scale="1" data-autoplay="2.48" data-transition-duration="500" >
         <p>
             Next year at this time, someone else will be standing here in this very spot, and it’s anyone’s guess who she will be.
         </p>
      </div>
     
-     <div class="step " data-x="2500" data-y="-3250" data-z="7500" data-scale="1" data-autoplay="1" data-transition-duration="500" >
+     <div class="step " data-x="2500" data-y="-3250" data-z="7500" data-scale="1" data-autoplay="1.6" data-transition-duration="500" >
         <p>
             But standing here, I can’t help but be reflective, a little sentimental
         </p>
      </div>
     
-     <div class="step " data-x="2600" data-y="-3380" data-z="7800" data-scale="1" data-autoplay="0.9" data-transition-duration="500" >
+     <div class="step " data-x="2600" data-y="-3380" data-z="7800" data-scale="1" data-autoplay="1.44" data-transition-duration="500" >
         <p>
             Eight years ago, I said it was time to change the tone of our politics
         </p>
      </div>
     
-     <div class="step " data-x="2700" data-y="-3510" data-z="8100" data-scale="1" data-autoplay="0.65" data-transition-duration="500" >
+     <div class="step " data-x="2700" data-y="-3510" data-z="8100" data-scale="1" data-autoplay="1.04" data-transition-duration="500" >
         <p>
             In hindsight, I clearly should have been more specific
         </p>
      </div>
     
-     <div class="step fontA" data-x="2800" data-y="-3640" data-z="8400" data-scale="1" data-autoplay="1.15" data-transition-duration="500" >
+     <div class="step fontA" data-x="2800" data-y="-3640" data-z="8400" data-scale="1" data-autoplay="1.84" data-transition-duration="500" >
         <p>
             Eight years ago, I was a young man, full of idealism and vigor, and look at me now.
         </p>
      </div>
     
-     <div class="step " data-x="2900" data-y="-3770" data-z="8700" data-scale="1" data-autoplay="0.85" data-transition-duration="500" >
+     <div class="step " data-x="2900" data-y="-3770" data-z="8700" data-scale="1" data-autoplay="1.36" data-transition-duration="500" >
         <p>
             I am gray and grizzled, just counting down the days ’til my death panel.
         </p>
      </div>
     
-     <div class="step " data-x="3000" data-y="-3900" data-z="9000" data-scale="1" data-autoplay="0.9" data-transition-duration="500" >
+     <div class="step " data-x="3000" data-y="-3900" data-z="9000" data-scale="1" data-autoplay="1.44" data-transition-duration="500" >
         <p>
             Hillary once questioned whether I’d be ready for a 3am phone call
         </p>
      </div>
     
-     <div class="step " data-x="3100" data-y="-4030" data-z="9300" data-scale="1" data-autoplay="0.95" data-transition-duration="500" >
+     <div class="step " data-x="3100" data-y="-4030" data-z="9300" data-scale="1" data-autoplay="1.52" data-transition-duration="500" >
         <p>
             now I’m awake anyway because I’ve got to go to the bathroom.
         </p>
@@ -197,37 +197,37 @@
         </p>
      </div>
     
-     <div class="step fontA" data-x="3300" data-y="-4290" data-z="9900" data-scale="1" data-autoplay="1.65" data-transition-duration="500" >
+     <div class="step fontA" data-x="3300" data-y="-4290" data-z="9900" data-scale="1" data-autoplay="2.64" data-transition-duration="500" >
         <p>
             In fact, somebody recently said to me, Mr President, you are so yesterday; Justin Trudeau has completely replaced you
         </p>
      </div>
     
-     <div class="step " data-x="3400" data-y="-4420" data-z="10200" data-scale="1" data-autoplay="0.75" data-transition-duration="500" >
+     <div class="step " data-x="3400" data-y="-4420" data-z="10200" data-scale="1" data-autoplay="1.2" data-transition-duration="500" >
         <p>
             he’s so handsome, he’s so charming, he’s the future
         </p>
      </div>
     
-     <div class="step " data-x="3500" data-y="-4550" data-z="10500" data-scale="1" data-autoplay="0.5" data-transition-duration="500" >
+     <div class="step " data-x="3500" data-y="-4550" data-z="10500" data-scale="1" data-autoplay="0.8" data-transition-duration="500" >
         <p>
             And I said, Justin, just give it a rest.
         </p>
      </div>
     
-     <div class="step " data-x="3600" data-y="-4680" data-z="10800" data-scale="1" data-autoplay="0.3" data-transition-duration="500" >
+     <div class="step " data-x="3600" data-y="-4680" data-z="10800" data-scale="1" data-autoplay="0.4" data-transition-duration="500" >
         <p>
             I resented that
         </p>
      </div>
     
-     <div class="step " data-x="3700" data-y="-4810" data-z="11100" data-scale="1" data-autoplay="0.45" data-transition-duration="500" >
+     <div class="step " data-x="3700" data-y="-4810" data-z="11100" data-scale="1" data-autoplay="0.72" data-transition-duration="500" >
         <p>
             Meanwhile, Michelle has not aged a day.
         </p>
      </div>
     
-     <div class="step " data-x="3800" data-y="-4940" data-z="11400" data-scale="1" data-autoplay="0.85" data-transition-duration="500" >
+     <div class="step " data-x="3800" data-y="-4940" data-z="11400" data-scale="1" data-autoplay="1.36" data-transition-duration="500" >
         <p>
             The only way you can date her in photos is by looking at me.
         </p>
@@ -239,7 +239,7 @@
         </p>
      </div>
     
-     <div class="step " data-x="4000" data-y="-5200" data-z="12000" data-scale="1" data-autoplay="0.3" data-transition-duration="500" >
+     <div class="step " data-x="4000" data-y="-5200" data-z="12000" data-scale="1" data-autoplay="0.32" data-transition-duration="500" >
         <p>
             Here we are in 2008
         </p>
@@ -251,7 +251,7 @@
         </p>
      </div>
     
-     <div class="step " data-x="4200" data-y="-5460" data-z="12600" data-scale="1" data-autoplay="0.4" data-transition-duration="500" >
+     <div class="step " data-x="4200" data-y="-5460" data-z="12600" data-scale="1" data-autoplay="0.64" data-transition-duration="500" >
         <p>
             Here we are a few years later
         </p>
@@ -263,7 +263,7 @@
         </p>
      </div>
     
-     <div class="step " data-x="4400" data-y="-5720" data-z="13200" data-scale="1" data-autoplay="0.45" data-transition-duration="500" >
+     <div class="step " data-x="4400" data-y="-5720" data-z="13200" data-scale="1" data-autoplay="0.72" data-transition-duration="500" >
         <p>
             And this one is from two weeks ago
         </p>
@@ -281,127 +281,127 @@
         </p>
      </div>
     
-     <div class="step fontA" data-x="4700" data-y="-6110" data-z="14100" data-scale="1" data-autoplay="1.5" data-transition-duration="500" >
+     <div class="step fontA" data-x="4700" data-y="-6110" data-z="14100" data-scale="1" data-autoplay="2.4" data-transition-duration="500" >
         <p>
             In just six short months, I will be officially a lame duck, which means Congress now will flat-out reject my authority.
         </p>
      </div>
     
-     <div class="step " data-x="4800" data-y="-6240" data-z="14400" data-scale="1" data-autoplay="0.65" data-transition-duration="500" >
+     <div class="step " data-x="4800" data-y="-6240" data-z="14400" data-scale="1" data-autoplay="1.04" data-transition-duration="500" >
         <p>
             And Republican leaders won’t take my phone calls
         </p>
      </div>
     
-     <div class="step " data-x="4900" data-y="-6370" data-z="14700" data-scale="1" data-autoplay="0.95" data-transition-duration="500" >
+     <div class="step " data-x="4900" data-y="-6370" data-z="14700" data-scale="1" data-autoplay="1.52" data-transition-duration="500" >
         <p>
             And this is going to take some getting used to, it’s really going to
         </p>
      </div>
     
-     <div class="step " data-x="5000" data-y="-6500" data-z="15000" data-scale="1" data-autoplay="0.3" data-transition-duration="500" >
+     <div class="step " data-x="5000" data-y="-6500" data-z="15000" data-scale="1" data-autoplay="0.4" data-transition-duration="500" >
         <p>
             it’s a curve ball
         </p>
      </div>
     
-     <div class="step " data-x="5100" data-y="-6630" data-z="15300" data-scale="1" data-autoplay="0.45" data-transition-duration="500" >
+     <div class="step " data-x="5100" data-y="-6630" data-z="15300" data-scale="1" data-autoplay="0.72" data-transition-duration="500" >
         <p>
             I don’t know what to do with it
         </p>
      </div>
     
-     <div class="step fontA" data-x="5200" data-y="-6760" data-z="15600" data-scale="1" data-autoplay="1.6" data-transition-duration="500" >
+     <div class="step fontA" data-x="5200" data-y="-6760" data-z="15600" data-scale="1" data-autoplay="2.56" data-transition-duration="500" >
         <p>
             Of course, in fact, for months now congressional Republicans have been saying there are things I cannot do in my final year
         </p>
      </div>
     
-     <div class="step " data-x="5300" data-y="-6890" data-z="15900" data-scale="1" data-autoplay="0.65" data-transition-duration="500" >
+     <div class="step " data-x="5300" data-y="-6890" data-z="15900" data-scale="1" data-autoplay="1.04" data-transition-duration="500" >
         <p>
             Unfortunately, this dinner was not one of them.
         </p>
      </div>
     
-     <div class="step " data-x="5400" data-y="-7020" data-z="16200" data-scale="1" data-autoplay="0.75" data-transition-duration="500" >
+     <div class="step " data-x="5400" data-y="-7020" data-z="16200" data-scale="1" data-autoplay="1.2" data-transition-duration="500" >
         <p>
             But on everything else, it’s another story
         </p>
      </div>
     
-     <div class="step " data-x="5500" data-y="-7150" data-z="16500" data-scale="1" data-autoplay="0.5" data-transition-duration="500" >
+     <div class="step " data-x="5500" data-y="-7150" data-z="16500" data-scale="1" data-autoplay="0.8" data-transition-duration="500" >
         <p>
             And you know who you are, Republicans
         </p>
      </div>
     
-     <div class="step fontA" data-x="5600" data-y="-7280" data-z="16800" data-scale="1" data-autoplay="1.85" data-transition-duration="500" >
+     <div class="step fontA" data-x="5600" data-y="-7280" data-z="16800" data-scale="1" data-autoplay="2.96" data-transition-duration="500" >
         <p>
             In fact, I think we’ve got Republican Senators Tim Scott and Cory Gardner, they’re in the house, which reminds me, security, bar the doors!
         </p>
      </div>
     
-     <div class="step fontA" data-x="5700" data-y="-7410" data-z="17100" data-scale="1" data-autoplay="0.9" data-transition-duration="500" >
+     <div class="step fontA" data-x="5700" data-y="-7410" data-z="17100" data-scale="1" data-autoplay="1.44" data-transition-duration="500" >
         <p>
             Judge Merrick Garland, come on out, we’re going to do this right here, right now.
         </p>
      </div>
     
-     <div class="step " data-x="5800" data-y="-7540" data-z="17400" data-scale="1" data-autoplay="0.35" data-transition-duration="500" >
+     <div class="step " data-x="5800" data-y="-7540" data-z="17400" data-scale="1" data-autoplay="0.56" data-transition-duration="500" >
         <p>
             It’s like “The Red Wedding.” —
         </p>
      </div>
     
-     <div class="step " data-x="5900" data-y="-7670" data-z="17700" data-scale="1" data-autoplay="0.35" data-transition-duration="500" >
+     <div class="step " data-x="5900" data-y="-7670" data-z="17700" data-scale="1" data-autoplay="0.56" data-transition-duration="500" >
         <p>
             But it’s not just Congress
         </p>
      </div>
     
-     <div class="step " data-x="6000" data-y="-7800" data-z="18000" data-scale="1" data-autoplay="1.15" data-transition-duration="500" >
+     <div class="step " data-x="6000" data-y="-7800" data-z="18000" data-scale="1" data-autoplay="1.84" data-transition-duration="500" >
         <p>
             Even some foreign leaders, they’ve been looking ahead, anticipating my departure
         </p>
      </div>
     
-     <div class="step " data-x="6100" data-y="-7930" data-z="18300" data-scale="1" data-autoplay="0.85" data-transition-duration="500" >
+     <div class="step " data-x="6100" data-y="-7930" data-z="18300" data-scale="1" data-autoplay="1.36" data-transition-duration="500" >
         <p>
             Last week, Prince George showed up to our meeting in his bathrobe.
         </p>
      </div>
     
-     <div class="step " data-x="6200" data-y="-8060" data-z="18600" data-scale="1" data-autoplay="0.35" data-transition-duration="500" >
+     <div class="step " data-x="6200" data-y="-8060" data-z="18600" data-scale="1" data-autoplay="0.56" data-transition-duration="500" >
         <p>
             That was a slap in the face.
         </p>
      </div>
     
-     <div class="step " data-x="6300" data-y="-8190" data-z="18900" data-scale="1" data-autoplay="0.35" data-transition-duration="500" >
+     <div class="step " data-x="6300" data-y="-8190" data-z="18900" data-scale="1" data-autoplay="0.56" data-transition-duration="500" >
         <p>
             A clear breach in protocol.
         </p>
      </div>
     
-     <div class="step fontA" data-x="6400" data-y="-8320" data-z="19200" data-scale="1" data-autoplay="1.85" data-transition-duration="500" >
+     <div class="step fontA" data-x="6400" data-y="-8320" data-z="19200" data-scale="1" data-autoplay="2.96" data-transition-duration="500" >
         <p>
             Although while in England I did have lunch with Her Majesty, the Queen, took in a performance of Shakespeare, hit the links with David Cameron
         </p>
      </div>
     
-     <div class="step fontA" data-x="6500" data-y="-8450" data-z="19500" data-scale="1" data-autoplay="1.35" data-transition-duration="500" >
+     <div class="step fontA" data-x="6500" data-y="-8450" data-z="19500" data-scale="1" data-autoplay="2.16" data-transition-duration="500" >
         <p>
             just in case anybody is still debating whether I’m black enough, I think that settles the debate
         </p>
      </div>
     
-     <div class="step " data-x="6600" data-y="-8580" data-z="19800" data-scale="1" data-autoplay="0.3" data-transition-duration="500" >
+     <div class="step " data-x="6600" data-y="-8580" data-z="19800" data-scale="1" data-autoplay="0.32" data-transition-duration="500" >
         <p>
             I won’t lie
         </p>
      </div>
     
-     <div class="step " data-x="6700" data-y="-8710" data-z="20100" data-scale="1" data-autoplay="0.4" data-transition-duration="500" >
+     <div class="step " data-x="6700" data-y="-8710" data-z="20100" data-scale="1" data-autoplay="0.64" data-transition-duration="500" >
         <p>
             look, this is a tough transition
         </p>
@@ -413,55 +413,55 @@
         </p>
      </div>
     
-     <div class="step " data-x="6900" data-y="-8970" data-z="20700" data-scale="1" data-autoplay="0.55" data-transition-duration="500" >
+     <div class="step " data-x="6900" data-y="-8970" data-z="20700" data-scale="1" data-autoplay="0.88" data-transition-duration="500" >
         <p>
             Key staff are now starting to leave the White House
         </p>
      </div>
     
-     <div class="step " data-x="7000" data-y="-9100" data-z="21000" data-scale="1" data-autoplay="0.4" data-transition-duration="500" >
+     <div class="step " data-x="7000" data-y="-9100" data-z="21000" data-scale="1" data-autoplay="0.64" data-transition-duration="500" >
         <p>
             Even reporters have left me
         </p>
      </div>
     
-     <div class="step " data-x="7100" data-y="-9230" data-z="21300" data-scale="1" data-autoplay="0.95" data-transition-duration="500" >
+     <div class="step " data-x="7100" data-y="-9230" data-z="21300" data-scale="1" data-autoplay="1.52" data-transition-duration="500" >
         <p>
             Savannah Guthrie, she’s left the White House Press Corps to host the Today show
         </p>
      </div>
     
-     <div class="step " data-x="7200" data-y="-9360" data-z="21600" data-scale="1" data-autoplay="0.8" data-transition-duration="500" >
+     <div class="step " data-x="7200" data-y="-9360" data-z="21600" data-scale="1" data-autoplay="1.28" data-transition-duration="500" >
         <p>
             Norah O’Donnell left the briefing room to host CBS This Morning
         </p>
      </div>
     
-     <div class="step " data-x="7300" data-y="-9490" data-z="21900" data-scale="1" data-autoplay="0.55" data-transition-duration="500" >
+     <div class="step " data-x="7300" data-y="-9490" data-z="21900" data-scale="1" data-autoplay="0.88" data-transition-duration="500" >
         <p>
             Jake Tapper left journalism to join CNN
         </p>
      </div>
     
-     <div class="step " data-x="7400" data-y="-9620" data-z="22200" data-scale="1" data-autoplay="0.75" data-transition-duration="500" >
+     <div class="step " data-x="7400" data-y="-9620" data-z="22200" data-scale="1" data-autoplay="1.2" data-transition-duration="500" >
         <p>
             But the prospect of leaving the White House is a mixed bag
         </p>
      </div>
     
-     <div class="step fontA" data-x="7500" data-y="-9750" data-z="22500" data-scale="1" data-autoplay="1.3" data-transition-duration="500" >
+     <div class="step fontA" data-x="7500" data-y="-9750" data-z="22500" data-scale="1" data-autoplay="2.08" data-transition-duration="500" >
         <p>
             You might have heard that someone jumped the White House fence last week, but I have to give Secret Service credit
         </p>
      </div>
     
-     <div class="step " data-x="7600" data-y="-9880" data-z="22800" data-scale="1" data-autoplay="0.7" data-transition-duration="500" >
+     <div class="step " data-x="7600" data-y="-9880" data-z="22800" data-scale="1" data-autoplay="1.12" data-transition-duration="500" >
         <p>
             they found Michelle, brought her back, she’s safe back at home now.
         </p>
      </div>
     
-     <div class="step " data-x="7700" data-y="-10010" data-z="23100" data-scale="1" data-autoplay="0.45" data-transition-duration="500" >
+     <div class="step " data-x="7700" data-y="-10010" data-z="23100" data-scale="1" data-autoplay="0.72" data-transition-duration="500" >
         <p>
             It’s only nine more months, baby
         </p>
@@ -473,37 +473,37 @@
         </p>
      </div>
     
-     <div class="step fontA" data-x="7900" data-y="-10270" data-z="23700" data-scale="1" data-autoplay="1.35" data-transition-duration="500" >
+     <div class="step fontA" data-x="7900" data-y="-10270" data-z="23700" data-scale="1" data-autoplay="2.16" data-transition-duration="500" >
         <p>
             And yet, somehow, despite all this, despite the churn, in my final year, my approval ratings keep going up.
         </p>
      </div>
     
-     <div class="step " data-x="8000" data-y="-10400" data-z="24000" data-scale="1" data-autoplay="0.85" data-transition-duration="500" >
+     <div class="step " data-x="8000" data-y="-10400" data-z="24000" data-scale="1" data-autoplay="1.36" data-transition-duration="500" >
         <p>
             The last time I was this high, I was trying to decide on my major
         </p>
      </div>
     
-     <div class="step " data-x="8100" data-y="-10530" data-z="24300" data-scale="1" data-autoplay="1" data-transition-duration="500" >
+     <div class="step " data-x="8100" data-y="-10530" data-z="24300" data-scale="1" data-autoplay="1.6" data-transition-duration="500" >
         <p>
             And here’s the thing: I haven’t really done anything differently
         </p>
      </div>
     
-     <div class="step " data-x="8200" data-y="-10660" data-z="24600" data-scale="1" data-autoplay="0.3" data-transition-duration="500" >
+     <div class="step " data-x="8200" data-y="-10660" data-z="24600" data-scale="1" data-autoplay="0.32" data-transition-duration="500" >
         <p>
             So it’s odd
         </p>
      </div>
     
-     <div class="step " data-x="8300" data-y="-10790" data-z="24900" data-scale="1" data-autoplay="0.7" data-transition-duration="500" >
+     <div class="step " data-x="8300" data-y="-10790" data-z="24900" data-scale="1" data-autoplay="1.12" data-transition-duration="500" >
         <p>
             Even my aides can’t explain the rising poll numbers
         </p>
      </div>
     
-     <div class="step " data-x="8400" data-y="-10920" data-z="25200" data-scale="1" data-autoplay="0.55" data-transition-duration="500" >
+     <div class="step " data-x="8400" data-y="-10920" data-z="25200" data-scale="1" data-autoplay="0.88" data-transition-duration="500" >
         <p>
             what has changed, nobody can figure it out
         </p>
@@ -521,7 +521,7 @@
         </p>
      </div>
     
-     <div class="step fontA" data-x="8700" data-y="-11310" data-z="26100" data-scale="1" data-autoplay="2.05" data-transition-duration="500" >
+     <div class="step fontA" data-x="8700" data-y="-11310" data-z="26100" data-scale="1" data-autoplay="3.28" data-transition-duration="500" >
         <p>
             Anyway, in this last year I do have more appreciation for those who have been with me on this amazing ride, like one of our finest public servants, Joe Biden
         </p>
@@ -539,13 +539,13 @@
         </p>
      </div>
     
-     <div class="step " data-x="9000" data-y="-11700" data-z="27000" data-scale="1" data-autoplay="0.5" data-transition-duration="500" >
+     <div class="step " data-x="9000" data-y="-11700" data-z="27000" data-scale="1" data-autoplay="0.8" data-transition-duration="500" >
         <p>
             I love Joe Biden, I really do
         </p>
      </div>
     
-     <div class="step fontA" data-x="9100" data-y="-11830" data-z="27300" data-scale="1" data-autoplay="1.7" data-transition-duration="500" >
+     <div class="step fontA" data-x="9100" data-y="-11830" data-z="27300" data-scale="1" data-autoplay="2.72" data-transition-duration="500" >
         <p>
             And I want to thank him for his friendship, for his counsel, for always giving it to me straight, for not shooting anybody in the face.
         </p>
@@ -557,55 +557,55 @@
         </p>
      </div>
     
-     <div class="step " data-x="9300" data-y="-12090" data-z="27900" data-scale="1" data-autoplay="0.35" data-transition-duration="500" >
+     <div class="step " data-x="9300" data-y="-12090" data-z="27900" data-scale="1" data-autoplay="0.56" data-transition-duration="500" >
         <p>
             Also, I would be remiss
         </p>
      </div>
     
-     <div class="step " data-x="9400" data-y="-12220" data-z="28200" data-scale="1" data-autoplay="0.6" data-transition-duration="500" >
+     <div class="step " data-x="9400" data-y="-12220" data-z="28200" data-scale="1" data-autoplay="0.96" data-transition-duration="500" >
         <p>
             let’s give it up for our host, Larry Wilmore.
         </p>
      </div>
     
-     <div class="step " data-x="9500" data-y="-12350" data-z="28500" data-scale="1" data-autoplay="0.8" data-transition-duration="500" >
+     <div class="step " data-x="9500" data-y="-12350" data-z="28500" data-scale="1" data-autoplay="1.28" data-transition-duration="500" >
         <p>
             Also known as one of the two black guys who is not Jon Stewart.
         </p>
      </div>
     
-     <div class="step " data-x="9600" data-y="-12480" data-z="28800" data-scale="1" data-autoplay="0.45" data-transition-duration="500" >
+     <div class="step " data-x="9600" data-y="-12480" data-z="28800" data-scale="1" data-autoplay="0.72" data-transition-duration="500" >
         <p>
             You’re the South African guy, right?
         </p>
      </div>
     
-     <div class="step " data-x="9700" data-y="-12610" data-z="29100" data-scale="1" data-autoplay="0.3" data-transition-duration="500" >
+     <div class="step " data-x="9700" data-y="-12610" data-z="29100" data-scale="1" data-autoplay="0.32" data-transition-duration="500" >
         <p>
             I love Larry
         </p>
      </div>
     
-     <div class="step " data-x="9800" data-y="-12740" data-z="29400" data-scale="1" data-autoplay="0.85" data-transition-duration="500" >
+     <div class="step " data-x="9800" data-y="-12740" data-z="29400" data-scale="1" data-autoplay="1.36" data-transition-duration="500" >
         <p>
             And his parents are here, who are from Evanston, which is a great town
         </p>
      </div>
     
-     <div class="step fontA" data-x="9900" data-y="-12870" data-z="29700" data-scale="1" data-autoplay="1.35" data-transition-duration="500" >
+     <div class="step fontA" data-x="9900" data-y="-12870" data-z="29700" data-scale="1" data-autoplay="2.16" data-transition-duration="500" >
         <p>
             I also would like to acknowledge some of the award-winning reporters that we have with us here tonight
         </p>
      </div>
     
-     <div class="step " data-x="10000" data-y="-13000" data-z="30000" data-scale="1" data-autoplay="0.3" data-transition-duration="500" >
+     <div class="step " data-x="10000" data-y="-13000" data-z="30000" data-scale="1" data-autoplay="0.4" data-transition-duration="500" >
         <p>
             Rachel McAdams
         </p>
      </div>
     
-     <div class="step " data-x="10100" data-y="-13130" data-z="30300" data-scale="1" data-autoplay="0.3" data-transition-duration="500" >
+     <div class="step " data-x="10100" data-y="-13130" data-z="30300" data-scale="1" data-autoplay="0.32" data-transition-duration="500" >
         <p>
             Mark Ruffalo
         </p>
@@ -617,25 +617,25 @@
         </p>
      </div>
     
-     <div class="step " data-x="10300" data-y="-13390" data-z="30900" data-scale="1" data-autoplay="0.6" data-transition-duration="500" >
+     <div class="step " data-x="10300" data-y="-13390" data-z="30900" data-scale="1" data-autoplay="0.96" data-transition-duration="500" >
         <p>
             Thank you all for everything that you’ve done.
         </p>
      </div>
     
-     <div class="step " data-x="10400" data-y="-13520" data-z="31200" data-scale="1" data-autoplay="0.3" data-transition-duration="500" >
+     <div class="step " data-x="10400" data-y="-13520" data-z="31200" data-scale="1" data-autoplay="0.4" data-transition-duration="500" >
         <p>
             I’m just joking
         </p>
      </div>
     
-     <div class="step fontA" data-x="10500" data-y="-13650" data-z="31500" data-scale="1" data-autoplay="2.35" data-transition-duration="500" >
+     <div class="step fontA" data-x="10500" data-y="-13650" data-z="31500" data-scale="1" data-autoplay="3.76" data-transition-duration="500" >
         <p>
             As you know, “Spotlight” is a film, a movie about investigative journalists with the resources and the autonomy to chase down the truth and hold the powerful accountable
         </p>
      </div>
     
-     <div class="step " data-x="10600" data-y="-13780" data-z="31800" data-scale="1" data-autoplay="0.4" data-transition-duration="500" >
+     <div class="step " data-x="10600" data-y="-13780" data-z="31800" data-scale="1" data-autoplay="0.64" data-transition-duration="500" >
         <p>
             Best fantasy film since Star Wars.
         </p>
@@ -647,7 +647,7 @@
         </p>
      </div>
     
-     <div class="step " data-x="10800" data-y="-14040" data-z="32400" data-scale="1" data-autoplay="0.35" data-transition-duration="500" >
+     <div class="step " data-x="10800" data-y="-14040" data-z="32400" data-scale="1" data-autoplay="0.56" data-transition-duration="500" >
         <p>
             that was maybe a cheap shot
         </p>
@@ -659,55 +659,55 @@
         </p>
      </div>
     
-     <div class="step fontA" data-x="11000" data-y="-14300" data-z="33000" data-scale="1" data-autoplay="0.95" data-transition-duration="500" >
+     <div class="step fontA" data-x="11000" data-y="-14300" data-z="33000" data-scale="1" data-autoplay="1.52" data-transition-duration="500" >
         <p>
             I understand the news business is tough these days, it keeps changing all the time
         </p>
      </div>
     
-     <div class="step fontA" data-x="11100" data-y="-14430" data-z="33300" data-scale="1" data-autoplay="1.55" data-transition-duration="500" >
+     <div class="step fontA" data-x="11100" data-y="-14430" data-z="33300" data-scale="1" data-autoplay="2.48" data-transition-duration="500" >
         <p>
             Every year at this dinner, somebody makes a joke about BuzzFeed, for example, changing the media landscape
         </p>
      </div>
     
-     <div class="step " data-x="11200" data-y="-14560" data-z="33600" data-scale="1" data-autoplay="0.85" data-transition-duration="500" >
+     <div class="step " data-x="11200" data-y="-14560" data-z="33600" data-scale="1" data-autoplay="1.36" data-transition-duration="500" >
         <p>
             And every year, the Washington Post laughs a little bit less hard.
         </p>
      </div>
     
-     <div class="step " data-x="11300" data-y="-14690" data-z="33900" data-scale="1" data-autoplay="0.3" data-transition-duration="500" >
+     <div class="step " data-x="11300" data-y="-14690" data-z="33900" data-scale="1" data-autoplay="0.48" data-transition-duration="500" >
         <p>
             Kind of a silence there.
         </p>
      </div>
     
-     <div class="step " data-x="11400" data-y="-14820" data-z="34200" data-scale="1" data-autoplay="0.6" data-transition-duration="500" >
+     <div class="step " data-x="11400" data-y="-14820" data-z="34200" data-scale="1" data-autoplay="0.96" data-transition-duration="500" >
         <p>
             Especially at the Washington Post table
         </p>
      </div>
     
-     <div class="step " data-x="11500" data-y="-14950" data-z="34500" data-scale="1" data-autoplay="0.5" data-transition-duration="500" >
+     <div class="step " data-x="11500" data-y="-14950" data-z="34500" data-scale="1" data-autoplay="0.8" data-transition-duration="500" >
         <p>
             GOP Chairman Reince Priebus is here as well.
         </p>
      </div>
     
-     <div class="step " data-x="11600" data-y="-15080" data-z="34800" data-scale="1" data-autoplay="0.7" data-transition-duration="500" >
+     <div class="step " data-x="11600" data-y="-15080" data-z="34800" data-scale="1" data-autoplay="1.12" data-transition-duration="500" >
         <p>
             Glad to see you that you feel that you’ve earned a night off.
         </p>
      </div>
     
-     <div class="step " data-x="11700" data-y="-15210" data-z="35100" data-scale="1" data-autoplay="0.5" data-transition-duration="500" >
+     <div class="step " data-x="11700" data-y="-15210" data-z="35100" data-scale="1" data-autoplay="0.8" data-transition-duration="500" >
         <p>
             Congratulations on all your success
         </p>
      </div>
     
-     <div class="step " data-x="11800" data-y="-15340" data-z="35400" data-scale="1" data-autoplay="0.95" data-transition-duration="500" >
+     <div class="step " data-x="11800" data-y="-15340" data-z="35400" data-scale="1" data-autoplay="1.52" data-transition-duration="500" >
         <p>
             The Republican Party, the nomination process -– it’s all going great
         </p>
@@ -719,103 +719,103 @@
         </p>
      </div>
     
-     <div class="step " data-x="12000" data-y="-15600" data-z="36000" data-scale="1" data-autoplay="0.4" data-transition-duration="500" >
+     <div class="step " data-x="12000" data-y="-15600" data-z="36000" data-scale="1" data-autoplay="0.64" data-transition-duration="500" >
         <p>
             Kendall Jenner is also here
         </p>
      </div>
     
-     <div class="step " data-x="12100" data-y="-15730" data-z="36300" data-scale="1" data-autoplay="0.5" data-transition-duration="500" >
+     <div class="step " data-x="12100" data-y="-15730" data-z="36300" data-scale="1" data-autoplay="0.8" data-transition-duration="500" >
         <p>
             And we had a chance to meet her backstage
         </p>
      </div>
     
-     <div class="step " data-x="12200" data-y="-15860" data-z="36600" data-scale="1" data-autoplay="0.5" data-transition-duration="500" >
+     <div class="step " data-x="12200" data-y="-15860" data-z="36600" data-scale="1" data-autoplay="0.8" data-transition-duration="500" >
         <p>
             she seems like a very nice young woman
         </p>
      </div>
     
-     <div class="step fontA" data-x="12300" data-y="-15990" data-z="36900" data-scale="1" data-autoplay="1.45" data-transition-duration="500" >
+     <div class="step fontA" data-x="12300" data-y="-15990" data-z="36900" data-scale="1" data-autoplay="2.32" data-transition-duration="500" >
         <p>
             I’m not exactly sure what she does, but I am told that my Twitter mentions are about to go through the roof
         </p>
      </div>
     
-     <div class="step " data-x="12400" data-y="-16120" data-z="37200" data-scale="1" data-autoplay="0.4" data-transition-duration="500" >
+     <div class="step " data-x="12400" data-y="-16120" data-z="37200" data-scale="1" data-autoplay="0.64" data-transition-duration="500" >
         <p>
             Helen Mirren is here tonight.
         </p>
      </div>
     
-     <div class="step " data-x="12500" data-y="-16250" data-z="37500" data-scale="1" data-autoplay="0.45" data-transition-duration="500" >
+     <div class="step " data-x="12500" data-y="-16250" data-z="37500" data-scale="1" data-autoplay="0.72" data-transition-duration="500" >
         <p>
             I don’t even have a joke here
         </p>
      </div>
     
-     <div class="step " data-x="12600" data-y="-16380" data-z="37800" data-scale="1" data-autoplay="0.55" data-transition-duration="500" >
+     <div class="step " data-x="12600" data-y="-16380" data-z="37800" data-scale="1" data-autoplay="0.88" data-transition-duration="500" >
         <p>
             I just think Helen Mirren is awesome.
         </p>
      </div>
     
-     <div class="step " data-x="12700" data-y="-16510" data-z="38100" data-scale="1" data-autoplay="0.3" data-transition-duration="500" >
+     <div class="step " data-x="12700" data-y="-16510" data-z="38100" data-scale="1" data-autoplay="0.4" data-transition-duration="500" >
         <p>
             She’s awesome
         </p>
      </div>
     
-     <div class="step " data-x="12800" data-y="-16640" data-z="38400" data-scale="1" data-autoplay="0.6" data-transition-duration="500" >
+     <div class="step " data-x="12800" data-y="-16640" data-z="38400" data-scale="1" data-autoplay="0.96" data-transition-duration="500" >
         <p>
             Sitting at the same table, I see Mike Bloomberg.
         </p>
      </div>
     
-     <div class="step fontA" data-x="12900" data-y="-16770" data-z="38700" data-scale="1" data-autoplay="1.4" data-transition-duration="500" >
+     <div class="step fontA" data-x="12900" data-y="-16770" data-z="38700" data-scale="1" data-autoplay="2.24" data-transition-duration="500" >
         <p>
             Mike, a combative, controversial New York billionaire is leading the GOP primary and it is not you.
         </p>
      </div>
     
-     <div class="step " data-x="13000" data-y="-16900" data-z="39000" data-scale="1" data-autoplay="0.45" data-transition-duration="500" >
+     <div class="step " data-x="13000" data-y="-16900" data-z="39000" data-scale="1" data-autoplay="0.72" data-transition-duration="500" >
         <p>
             That’s has to sting a little bit.
         </p>
      </div>
     
-     <div class="step " data-x="13100" data-y="-17030" data-z="39300" data-scale="1" data-autoplay="1.05" data-transition-duration="500" >
+     <div class="step " data-x="13100" data-y="-17030" data-z="39300" data-scale="1" data-autoplay="1.68" data-transition-duration="500" >
         <p>
             Although it’s not an entirely fair comparison between you and the Donald
         </p>
      </div>
     
-     <div class="step " data-x="13200" data-y="-17160" data-z="39600" data-scale="1" data-autoplay="0.55" data-transition-duration="500" >
+     <div class="step " data-x="13200" data-y="-17160" data-z="39600" data-scale="1" data-autoplay="0.88" data-transition-duration="500" >
         <p>
             After all, Mike was a big-city mayor
         </p>
      </div>
     
-     <div class="step " data-x="13300" data-y="-17290" data-z="39900" data-scale="1" data-autoplay="0.35" data-transition-duration="500" >
+     <div class="step " data-x="13300" data-y="-17290" data-z="39900" data-scale="1" data-autoplay="0.56" data-transition-duration="500" >
         <p>
             He knows policy in depth
         </p>
      </div>
     
-     <div class="step " data-x="13400" data-y="-17420" data-z="40200" data-scale="1" data-autoplay="0.95" data-transition-duration="500" >
+     <div class="step " data-x="13400" data-y="-17420" data-z="40200" data-scale="1" data-autoplay="1.52" data-transition-duration="500" >
         <p>
             And he’s actually worth the amount of money that he says he is
         </p>
      </div>
     
-     <div class="step " data-x="13500" data-y="-17550" data-z="40500" data-scale="1" data-autoplay="0.35" data-transition-duration="500" >
+     <div class="step " data-x="13500" data-y="-17550" data-z="40500" data-scale="1" data-autoplay="0.56" data-transition-duration="500" >
         <p>
             What an election season
         </p>
      </div>
     
-     <div class="step fontA" data-x="13600" data-y="-17680" data-z="40800" data-scale="1" data-autoplay="1.35" data-transition-duration="500" >
+     <div class="step fontA" data-x="13600" data-y="-17680" data-z="40800" data-scale="1" data-autoplay="2.16" data-transition-duration="500" >
         <p>
             For example, we’ve got the bright new face of the Democratic Party here tonight –- Mr Bernie Sanders!
         </p>
@@ -833,49 +833,49 @@
         </p>
      </div>
     
-     <div class="step " data-x="13900" data-y="-18070" data-z="41700" data-scale="1" data-autoplay="0.5" data-transition-duration="500" >
+     <div class="step " data-x="13900" data-y="-18070" data-z="41700" data-scale="1" data-autoplay="0.8" data-transition-duration="500" >
         <p>
             Bernie, you look like a million bucks.
         </p>
      </div>
     
-     <div class="step fontA" data-x="14000" data-y="-18200" data-z="42000" data-scale="1" data-autoplay="1.05" data-transition-duration="500" >
+     <div class="step fontA" data-x="14000" data-y="-18200" data-z="42000" data-scale="1" data-autoplay="1.68" data-transition-duration="500" >
         <p>
             Or to put it in terms you’ll understand, you look like 37,000 donations of 27 dollars each
         </p>
      </div>
     
-     <div class="step fontA" data-x="14100" data-y="-18330" data-z="42300" data-scale="1" data-autoplay="1.4" data-transition-duration="500" >
+     <div class="step fontA" data-x="14100" data-y="-18330" data-z="42300" data-scale="1" data-autoplay="2.24" data-transition-duration="500" >
         <p>
             A lot of folks have been surprised by the Bernie phenomenon, especially his appeal to young people
         </p>
      </div>
     
-     <div class="step " data-x="14200" data-y="-18460" data-z="42600" data-scale="1" data-autoplay="0.3" data-transition-duration="500" >
+     <div class="step " data-x="14200" data-y="-18460" data-z="42600" data-scale="1" data-autoplay="0.48" data-transition-duration="500" >
         <p>
             But not me, I get it
         </p>
      </div>
     
-     <div class="step fontA" data-x="14300" data-y="-18590" data-z="42900" data-scale="1" data-autoplay="1.5" data-transition-duration="500" >
+     <div class="step fontA" data-x="14300" data-y="-18590" data-z="42900" data-scale="1" data-autoplay="2.4" data-transition-duration="500" >
         <p>
             Just recently, a young person came up to me and said she was sick of politicians standing in the way of her dreams
         </p>
      </div>
     
-     <div class="step " data-x="14400" data-y="-18720" data-z="43200" data-scale="1" data-autoplay="1.05" data-transition-duration="500" >
+     <div class="step " data-x="14400" data-y="-18720" data-z="43200" data-scale="1" data-autoplay="1.68" data-transition-duration="500" >
         <p>
             As if we were actually going to let Malia go to Burning Man this year.
         </p>
      </div>
     
-     <div class="step " data-x="14500" data-y="-18850" data-z="43500" data-scale="1" data-autoplay="0.35" data-transition-duration="500" >
+     <div class="step " data-x="14500" data-y="-18850" data-z="43500" data-scale="1" data-autoplay="0.56" data-transition-duration="500" >
         <p>
             That was not going to happen.
         </p>
      </div>
     
-     <div class="step " data-x="14600" data-y="-18980" data-z="43800" data-scale="1" data-autoplay="0.35" data-transition-duration="500" >
+     <div class="step " data-x="14600" data-y="-18980" data-z="43800" data-scale="1" data-autoplay="0.56" data-transition-duration="500" >
         <p>
             Bernie might have let her go.
         </p>
@@ -887,19 +887,19 @@
         </p>
      </div>
     
-     <div class="step " data-x="14800" data-y="-19240" data-z="44400" data-scale="1" data-autoplay="0.95" data-transition-duration="500" >
+     <div class="step " data-x="14800" data-y="-19240" data-z="44400" data-scale="1" data-autoplay="1.52" data-transition-duration="500" >
         <p>
             I am hurt, though, Bernie, that you’ve distancing yourself a little from me.
         </p>
      </div>
     
-     <div class="step " data-x="14900" data-y="-19370" data-z="44700" data-scale="1" data-autoplay="0.8" data-transition-duration="500" >
+     <div class="step " data-x="14900" data-y="-19370" data-z="44700" data-scale="1" data-autoplay="1.28" data-transition-duration="500" >
         <p>
             I mean, that’s just not something that you do to your comrade
         </p>
      </div>
     
-     <div class="step " data-x="15000" data-y="-19500" data-z="45000" data-scale="1" data-autoplay="0.9" data-transition-duration="500" >
+     <div class="step " data-x="15000" data-y="-19500" data-z="45000" data-scale="1" data-autoplay="1.44" data-transition-duration="500" >
         <p>
             Bernie’s slogan has helped his campaign catch fire among young people
         </p>
@@ -917,19 +917,19 @@
         </p>
      </div>
     
-     <div class="step " data-x="15300" data-y="-19890" data-z="45900" data-scale="1" data-autoplay="0.3" data-transition-duration="500" >
+     <div class="step " data-x="15300" data-y="-19890" data-z="45900" data-scale="1" data-autoplay="0.48" data-transition-duration="500" >
         <p>
             it’s a good slogan
         </p>
      </div>
     
-     <div class="step " data-x="15400" data-y="-20020" data-z="46200" data-scale="1" data-autoplay="0.65" data-transition-duration="500" >
+     <div class="step " data-x="15400" data-y="-20020" data-z="46200" data-scale="1" data-autoplay="1.04" data-transition-duration="500" >
         <p>
             Hillary’s slogan has not had the same effect
         </p>
      </div>
     
-     <div class="step " data-x="15500" data-y="-20150" data-z="46500" data-scale="1" data-autoplay="0.3" data-transition-duration="500" >
+     <div class="step " data-x="15500" data-y="-20150" data-z="46500" data-scale="1" data-autoplay="0.32" data-transition-duration="500" >
         <p>
             Let’s see this
         </p>
@@ -941,73 +941,73 @@
         </p>
      </div>
     
-     <div class="step fontA" data-x="15700" data-y="-20410" data-z="47100" data-scale="1" data-autoplay="1.3" data-transition-duration="500" >
+     <div class="step fontA" data-x="15700" data-y="-20410" data-z="47100" data-scale="1" data-autoplay="2.08" data-transition-duration="500" >
         <p>
             Look, I’ve said how much I admire Hillary’s toughness, her smarts, her policy chops, her experience
         </p>
      </div>
     
-     <div class="step fontA" data-x="15800" data-y="-20540" data-z="47400" data-scale="1" data-autoplay="1.8" data-transition-duration="500" >
+     <div class="step fontA" data-x="15800" data-y="-20540" data-z="47400" data-scale="1" data-autoplay="2.88" data-transition-duration="500" >
         <p>
             You’ve got to admit it, though, Hillary trying to appeal to young voters is a little bit like your relative just signed up for Facebook.
         </p>
      </div>
     
-     <div class="step " data-x="15900" data-y="-20670" data-z="47700" data-scale="1" data-autoplay="0.5" data-transition-duration="500" >
+     <div class="step " data-x="15900" data-y="-20670" data-z="47700" data-scale="1" data-autoplay="0.8" data-transition-duration="500" >
         <p>
             “Dear America, did you get my poke?”
         </p>
      </div>
     
-     <div class="step " data-x="16000" data-y="-20800" data-z="48000" data-scale="1" data-autoplay="0.4" data-transition-duration="500" >
+     <div class="step " data-x="16000" data-y="-20800" data-z="48000" data-scale="1" data-autoplay="0.64" data-transition-duration="500" >
         <p>
             “Is it appearing on your wall?”
         </p>
      </div>
     
-     <div class="step " data-x="16100" data-y="-20930" data-z="48300" data-scale="1" data-autoplay="0.5" data-transition-duration="500" >
+     <div class="step " data-x="16100" data-y="-20930" data-z="48300" data-scale="1" data-autoplay="0.8" data-transition-duration="500" >
         <p>
             “I’m not sure I am using this right
         </p>
      </div>
     
-     <div class="step " data-x="16200" data-y="-21060" data-z="48600" data-scale="1" data-autoplay="0.3" data-transition-duration="500" >
+     <div class="step " data-x="16200" data-y="-21060" data-z="48600" data-scale="1" data-autoplay="0.4" data-transition-duration="500" >
         <p>
             Love, Aunt Hillary.”
         </p>
      </div>
     
-     <div class="step " data-x="16300" data-y="-21190" data-z="48900" data-scale="1" data-autoplay="0.5" data-transition-duration="500" >
+     <div class="step " data-x="16300" data-y="-21190" data-z="48900" data-scale="1" data-autoplay="0.8" data-transition-duration="500" >
         <p>
             It’s not entirely persuasive.
         </p>
      </div>
     
-     <div class="step " data-x="16400" data-y="-21320" data-z="49200" data-scale="1" data-autoplay="0.75" data-transition-duration="500" >
+     <div class="step " data-x="16400" data-y="-21320" data-z="49200" data-scale="1" data-autoplay="1.2" data-transition-duration="500" >
         <p>
             Meanwhile, on the Republican side, things are a little more
         </p>
      </div>
     
-     <div class="step " data-x="16500" data-y="-21450" data-z="49500" data-scale="1" data-autoplay="0.3" data-transition-duration="500" >
+     <div class="step " data-x="16500" data-y="-21450" data-z="49500" data-scale="1" data-autoplay="0.4" data-transition-duration="500" >
         <p>
             how should we say this
         </p>
      </div>
     
-     <div class="step fontA" data-x="16600" data-y="-21580" data-z="49800" data-scale="1" data-autoplay="1.25" data-transition-duration="500" >
+     <div class="step fontA" data-x="16600" data-y="-21580" data-z="49800" data-scale="1" data-autoplay="2" data-transition-duration="500" >
         <p>
             a little “more loose.” Just look at the confusion over the invitations to tonight’s dinner
         </p>
      </div>
     
-     <div class="step fontA" data-x="16700" data-y="-21710" data-z="50100" data-scale="1" data-autoplay="1.3" data-transition-duration="500" >
+     <div class="step fontA" data-x="16700" data-y="-21710" data-z="50100" data-scale="1" data-autoplay="2.08" data-transition-duration="500" >
         <p>
             Guests were asked to check whether they wanted steak or fish, but instead, a whole bunch of you wrote in Paul Ryan.
         </p>
      </div>
     
-     <div class="step " data-x="16800" data-y="-21840" data-z="50400" data-scale="1" data-autoplay="0.4" data-transition-duration="500" >
+     <div class="step " data-x="16800" data-y="-21840" data-z="50400" data-scale="1" data-autoplay="0.64" data-transition-duration="500" >
         <p>
             That’s not an option, people
         </p>
@@ -1019,19 +1019,19 @@
         </p>
      </div>
     
-     <div class="step " data-x="17000" data-y="-22100" data-z="51000" data-scale="1" data-autoplay="0.35" data-transition-duration="500" >
+     <div class="step " data-x="17000" data-y="-22100" data-z="51000" data-scale="1" data-autoplay="0.56" data-transition-duration="500" >
         <p>
             You may not like steak or fish
         </p>
      </div>
     
-     <div class="step " data-x="17100" data-y="-22230" data-z="51300" data-scale="1" data-autoplay="0.3" data-transition-duration="500" >
+     <div class="step " data-x="17100" data-y="-22230" data-z="51300" data-scale="1" data-autoplay="0.4" data-transition-duration="500" >
         <p>
             but that’s your choice
         </p>
      </div>
     
-     <div class="step fontA" data-x="17200" data-y="-22360" data-z="51600" data-scale="1" data-autoplay="1.2" data-transition-duration="500" >
+     <div class="step fontA" data-x="17200" data-y="-22360" data-z="51600" data-scale="1" data-autoplay="1.92" data-transition-duration="500" >
         <p>
             Meanwhile, some candidates aren’t polling high enough to qualify for their own joke tonight
         </p>
@@ -1043,67 +1043,67 @@
         </p>
      </div>
     
-     <div class="step " data-x="17400" data-y="-22620" data-z="52200" data-scale="1" data-autoplay="0.6" data-transition-duration="500" >
+     <div class="step " data-x="17400" data-y="-22620" data-z="52200" data-scale="1" data-autoplay="0.96" data-transition-duration="500" >
         <p>
             The rules were well-established ahead of time
         </p>
      </div>
     
-     <div class="step " data-x="17500" data-y="-22750" data-z="52500" data-scale="1" data-autoplay="0.3" data-transition-duration="500" >
+     <div class="step " data-x="17500" data-y="-22750" data-z="52500" data-scale="1" data-autoplay="0.48" data-transition-duration="500" >
         <p>
             And then there’s Ted Cruz
         </p>
      </div>
     
-     <div class="step " data-x="17600" data-y="-22880" data-z="52800" data-scale="1" data-autoplay="0.3" data-transition-duration="500" >
+     <div class="step " data-x="17600" data-y="-22880" data-z="52800" data-scale="1" data-autoplay="0.4" data-transition-duration="500" >
         <p>
             Ted had a tough week
         </p>
      </div>
     
-     <div class="step fontA" data-x="17700" data-y="-23010" data-z="53100" data-scale="1" data-autoplay="1.4" data-transition-duration="500" >
+     <div class="step fontA" data-x="17700" data-y="-23010" data-z="53100" data-scale="1" data-autoplay="2.24" data-transition-duration="500" >
         <p>
             He went to Indiana –- Hoosier country –- stood on a basketball court, and called the hoop a “basketball ring.”
         </p>
      </div>
     
-     <div class="step " data-x="17800" data-y="-23140" data-z="53400" data-scale="1" data-autoplay="0.8" data-transition-duration="500" >
+     <div class="step " data-x="17800" data-y="-23140" data-z="53400" data-scale="1" data-autoplay="1.28" data-transition-duration="500" >
         <p>
             What else is in his lexicon? Baseball sticks? Football hats?
         </p>
      </div>
     
-     <div class="step " data-x="17900" data-y="-23270" data-z="53700" data-scale="1" data-autoplay="0.4" data-transition-duration="500" >
+     <div class="step " data-x="17900" data-y="-23270" data-z="53700" data-scale="1" data-autoplay="0.64" data-transition-duration="500" >
         <p>
             But sure, I’m the foreign one
         </p>
      </div>
     
-     <div class="step " data-x="18000" data-y="-23400" data-z="54000" data-scale="1" data-autoplay="0.7" data-transition-duration="500" >
+     <div class="step " data-x="18000" data-y="-23400" data-z="54000" data-scale="1" data-autoplay="1.12" data-transition-duration="500" >
         <p>
             Well, let me conclude tonight on a more serious note
         </p>
      </div>
     
-     <div class="step fontA" data-x="18100" data-y="-23530" data-z="54300" data-scale="1" data-autoplay="1.05" data-transition-duration="500" >
+     <div class="step fontA" data-x="18100" data-y="-23530" data-z="54300" data-scale="1" data-autoplay="1.68" data-transition-duration="500" >
         <p>
             I want to thank the Washington press corps, I want to thank Carol for all that you do
         </p>
      </div>
     
-     <div class="step " data-x="18200" data-y="-23660" data-z="54600" data-scale="1" data-autoplay="0.65" data-transition-duration="500" >
+     <div class="step " data-x="18200" data-y="-23660" data-z="54600" data-scale="1" data-autoplay="1.04" data-transition-duration="500" >
         <p>
             The free press is central to our democracy, and
         </p>
      </div>
     
-     <div class="step " data-x="18300" data-y="-23790" data-z="54900" data-scale="1" data-autoplay="0.9" data-transition-duration="500" >
+     <div class="step " data-x="18300" data-y="-23790" data-z="54900" data-scale="1" data-autoplay="1.44" data-transition-duration="500" >
         <p>
             nah, I’m just kidding! You know I’ve got to talk about Trump! Come on!
         </p>
      </div>
     
-     <div class="step " data-x="18400" data-y="-23920" data-z="55200" data-scale="1" data-autoplay="0.45" data-transition-duration="500" >
+     <div class="step " data-x="18400" data-y="-23920" data-z="55200" data-scale="1" data-autoplay="0.72" data-transition-duration="500" >
         <p>
             We weren’t just going to stop there
         </p>
@@ -1115,97 +1115,97 @@
         </p>
      </div>
     
-     <div class="step " data-x="18600" data-y="-24180" data-z="55800" data-scale="1" data-autoplay="0.75" data-transition-duration="500" >
+     <div class="step " data-x="18600" data-y="-24180" data-z="55800" data-scale="1" data-autoplay="1.2" data-transition-duration="500" >
         <p>
             Although I am a little hurt that he’s not here tonight
         </p>
      </div>
     
-     <div class="step " data-x="18700" data-y="-24310" data-z="56100" data-scale="1" data-autoplay="0.4" data-transition-duration="500" >
+     <div class="step " data-x="18700" data-y="-24310" data-z="56100" data-scale="1" data-autoplay="0.64" data-transition-duration="500" >
         <p>
             We had so much fun the last time.
         </p>
      </div>
     
-     <div class="step " data-x="18800" data-y="-24440" data-z="56400" data-scale="1" data-autoplay="0.3" data-transition-duration="500" >
+     <div class="step " data-x="18800" data-y="-24440" data-z="56400" data-scale="1" data-autoplay="0.48" data-transition-duration="500" >
         <p>
             And it is surprising
         </p>
      </div>
     
-     <div class="step " data-x="18900" data-y="-24570" data-z="56700" data-scale="1" data-autoplay="1.05" data-transition-duration="500" >
+     <div class="step " data-x="18900" data-y="-24570" data-z="56700" data-scale="1" data-autoplay="1.68" data-transition-duration="500" >
         <p>
             You’ve got a room full of reporters, celebrities, cameras, and he says no?
         </p>
      </div>
     
-     <div class="step " data-x="19000" data-y="-24700" data-z="57000" data-scale="1" data-autoplay="0.55" data-transition-duration="500" >
+     <div class="step " data-x="19000" data-y="-24700" data-z="57000" data-scale="1" data-autoplay="0.88" data-transition-duration="500" >
         <p>
             Is this dinner too tacky for The Donald?
         </p>
      </div>
     
-     <div class="step " data-x="19100" data-y="-24830" data-z="57300" data-scale="1" data-autoplay="0.95" data-transition-duration="500" >
+     <div class="step " data-x="19100" data-y="-24830" data-z="57300" data-scale="1" data-autoplay="1.52" data-transition-duration="500" >
         <p>
             What could he possibly be doing instead? Is he at home, eating a Trump Steak
         </p>
      </div>
     
-     <div class="step " data-x="19200" data-y="-24960" data-z="57600" data-scale="1" data-autoplay="0.55" data-transition-duration="500" >
+     <div class="step " data-x="19200" data-y="-24960" data-z="57600" data-scale="1" data-autoplay="0.88" data-transition-duration="500" >
         <p>
             tweeting out insults to Angela Merkel?
         </p>
      </div>
     
-     <div class="step " data-x="19300" data-y="-25090" data-z="57900" data-scale="1" data-autoplay="0.3" data-transition-duration="500" >
+     <div class="step " data-x="19300" data-y="-25090" data-z="57900" data-scale="1" data-autoplay="0.32" data-transition-duration="500" >
         <p>
             What’s he doing? —
         </p>
      </div>
     
-     <div class="step " data-x="19400" data-y="-25220" data-z="58200" data-scale="1" data-autoplay="1.2" data-transition-duration="500" >
+     <div class="step " data-x="19400" data-y="-25220" data-z="58200" data-scale="1" data-autoplay="1.92" data-transition-duration="500" >
         <p>
             The Republican establishment is incredulous that he is their most likely nominee
         </p>
      </div>
     
-     <div class="step " data-x="19500" data-y="-25350" data-z="58500" data-scale="1" data-autoplay="0.3" data-transition-duration="500" >
+     <div class="step " data-x="19500" data-y="-25350" data-z="58500" data-scale="1" data-autoplay="0.48" data-transition-duration="500" >
         <p>
             incredulous, shocking
         </p>
      </div>
     
-     <div class="step " data-x="19600" data-y="-25480" data-z="58800" data-scale="1" data-autoplay="0.95" data-transition-duration="500" >
+     <div class="step " data-x="19600" data-y="-25480" data-z="58800" data-scale="1" data-autoplay="1.52" data-transition-duration="500" >
         <p>
             They say Donald lacks the foreign policy experience to be President
         </p>
      </div>
     
-     <div class="step fontA" data-x="19700" data-y="-25610" data-z="59100" data-scale="1" data-autoplay="1.55" data-transition-duration="500" >
+     <div class="step fontA" data-x="19700" data-y="-25610" data-z="59100" data-scale="1" data-autoplay="2.48" data-transition-duration="500" >
         <p>
             But, in fairness, he has spent years meeting with leaders from around the world: Miss Sweden, Miss Argentina, Miss Azerbaijan
         </p>
      </div>
     
-     <div class="step fontA" data-x="19800" data-y="-25740" data-z="59400" data-scale="1" data-autoplay="1.45" data-transition-duration="500" >
+     <div class="step fontA" data-x="19800" data-y="-25740" data-z="59400" data-scale="1" data-autoplay="2.32" data-transition-duration="500" >
         <p>
             And there’s one area where Donald’s experience could be invaluable -– and that’s closing Guantanamo
         </p>
      </div>
     
-     <div class="step fontA" data-x="19900" data-y="-25870" data-z="59700" data-scale="1" data-autoplay="1.1" data-transition-duration="500" >
+     <div class="step fontA" data-x="19900" data-y="-25870" data-z="59700" data-scale="1" data-autoplay="1.76" data-transition-duration="500" >
         <p>
             Because Trump knows a thing or two about running waterfront properties into the ground
         </p>
      </div>
     
-     <div class="step " data-x="20000" data-y="-26000" data-z="60000" data-scale="1" data-autoplay="0.45" data-transition-duration="500" >
+     <div class="step " data-x="20000" data-y="-26000" data-z="60000" data-scale="1" data-autoplay="0.72" data-transition-duration="500" >
         <p>
             All right, that’s probably enough
         </p>
      </div>
     
-     <div class="step " data-x="20100" data-y="-26130" data-z="60300" data-scale="1" data-autoplay="0.5" data-transition-duration="500" >
+     <div class="step " data-x="20100" data-y="-26130" data-z="60300" data-scale="1" data-autoplay="0.8" data-transition-duration="500" >
         <p>
             I mean, I’ve got more material
         </p>
@@ -1217,31 +1217,31 @@
         </p>
      </div>
     
-     <div class="step " data-x="20300" data-y="-26390" data-z="60900" data-scale="1" data-autoplay="0.75" data-transition-duration="500" >
+     <div class="step " data-x="20300" data-y="-26390" data-z="60900" data-scale="1" data-autoplay="1.2" data-transition-duration="500" >
         <p>
             no, no, I don’t want to spend too much time on The Donald
         </p>
      </div>
     
-     <div class="step " data-x="20400" data-y="-26520" data-z="61200" data-scale="1" data-autoplay="0.6" data-transition-duration="500" >
+     <div class="step " data-x="20400" data-y="-26520" data-z="61200" data-scale="1" data-autoplay="0.96" data-transition-duration="500" >
         <p>
             Following your lead, I want to show some restraint.
         </p>
      </div>
     
-     <div class="step fontA" data-x="20500" data-y="-26650" data-z="61500" data-scale="1" data-autoplay="2.1" data-transition-duration="500" >
+     <div class="step fontA" data-x="20500" data-y="-26650" data-z="61500" data-scale="1" data-autoplay="3.36" data-transition-duration="500" >
         <p>
             Because I think we can all agree that from the start, he’s gotten the appropriate amount of coverage, befitting the seriousness of his candidacy
         </p>
      </div>
     
-     <div class="step " data-x="20600" data-y="-26780" data-z="61800" data-scale="1" data-autoplay="0.5" data-transition-duration="500" >
+     <div class="step " data-x="20600" data-y="-26780" data-z="61800" data-scale="1" data-autoplay="0.8" data-transition-duration="500" >
         <p>
             I hope you all are proud of yourselves.
         </p>
      </div>
     
-     <div class="step fontA" data-x="20700" data-y="-26910" data-z="62100" data-scale="1" data-autoplay="1.4" data-transition-duration="500" >
+     <div class="step fontA" data-x="20700" data-y="-26910" data-z="62100" data-scale="1" data-autoplay="2.24" data-transition-duration="500" >
         <p>
             The guy wanted to give his hotel business a boost, and now we’re praying that Cleveland makes it through July
         </p>
@@ -1259,13 +1259,13 @@
         </p>
      </div>
     
-     <div class="step " data-x="21000" data-y="-27300" data-z="63000" data-scale="1" data-autoplay="0.8" data-transition-duration="500" >
+     <div class="step " data-x="21000" data-y="-27300" data-z="63000" data-scale="1" data-autoplay="1.28" data-transition-duration="500" >
         <p>
             As for me and Michelle, we’ve decided to stay in D.C
         </p>
      </div>
     
-     <div class="step " data-x="21100" data-y="-27430" data-z="63300" data-scale="1" data-autoplay="0.3" data-transition-duration="500" >
+     <div class="step " data-x="21100" data-y="-27430" data-z="63300" data-scale="1" data-autoplay="0.48" data-transition-duration="500" >
         <p>
             for a couple more years.
         </p>
@@ -1277,13 +1277,13 @@
         </p>
      </div>
     
-     <div class="step fontA" data-x="21300" data-y="-27690" data-z="63900" data-scale="1" data-autoplay="1.25" data-transition-duration="500" >
+     <div class="step fontA" data-x="21300" data-y="-27690" data-z="63900" data-scale="1" data-autoplay="2" data-transition-duration="500" >
         <p>
             This way, our youngest daughter can finish up high school, Michelle can stay closer to her plot of carrots.
         </p>
      </div>
     
-     <div class="step " data-x="21400" data-y="-27820" data-z="64200" data-scale="1" data-autoplay="0.75" data-transition-duration="500" >
+     <div class="step " data-x="21400" data-y="-27820" data-z="64200" data-scale="1" data-autoplay="1.2" data-transition-duration="500" >
         <p>
             She’s already making plans to see them every day
         </p>
@@ -1301,13 +1301,13 @@
         </p>
      </div>
     
-     <div class="step fontA" data-x="21700" data-y="-28210" data-z="65100" data-scale="1" data-autoplay="2" data-transition-duration="500" >
+     <div class="step fontA" data-x="21700" data-y="-28210" data-z="65100" data-scale="1" data-autoplay="3.2" data-transition-duration="500" >
         <p>
             But our decision has actually presented a bit of a dilemma because, traditionally, Presidents don’t stick around after they’re done
         </p>
      </div>
     
-     <div class="step " data-x="21800" data-y="-28340" data-z="65400" data-scale="1" data-autoplay="0.9" data-transition-duration="500" >
+     <div class="step " data-x="21800" data-y="-28340" data-z="65400" data-scale="1" data-autoplay="1.44" data-transition-duration="500" >
         <p>
             And it’s something that I’ve been brooding about a little bit
         </p>
@@ -1319,199 +1319,199 @@
         </p>
      </div>
     
-     <div class="step " data-x="22000" data-y="-28600" data-z="66000" data-scale="1" data-autoplay="0.3" data-transition-duration="500" >
+     <div class="step " data-x="22000" data-y="-28600" data-z="66000" data-scale="1" data-autoplay="0.4" data-transition-duration="500" >
         <p>
             (Video is shown.)
         </p>
      </div>
     
-     <div class="step fontA" data-x="22100" data-y="-28730" data-z="66300" data-scale="1" data-autoplay="1.25" data-transition-duration="500" >
+     <div class="step fontA" data-x="22100" data-y="-28730" data-z="66300" data-scale="1" data-autoplay="2" data-transition-duration="500" >
         <p>
             I am still waiting for all of you to respond to my invitation to connect on LinkedIn.
         </p>
      </div>
     
-     <div class="step " data-x="22200" data-y="-28860" data-z="66600" data-scale="1" data-autoplay="0.95" data-transition-duration="500" >
+     <div class="step " data-x="22200" data-y="-28860" data-z="66600" data-scale="1" data-autoplay="1.52" data-transition-duration="500" >
         <p>
             But I know you have jobs to do, which is what really brings us here tonight.
         </p>
      </div>
     
-     <div class="step fontA" data-x="22300" data-y="-28990" data-z="66900" data-scale="1" data-autoplay="1.4" data-transition-duration="500" >
+     <div class="step fontA" data-x="22300" data-y="-28990" data-z="66900" data-scale="1" data-autoplay="2.24" data-transition-duration="500" >
         <p>
             I know that there are times that we’ve had differences, and that’s inherent in our institutional roles
         </p>
      </div>
     
-     <div class="step " data-x="22400" data-y="-29120" data-z="67200" data-scale="1" data-autoplay="0.7" data-transition-duration="500" >
+     <div class="step " data-x="22400" data-y="-29120" data-z="67200" data-scale="1" data-autoplay="1.12" data-transition-duration="500" >
         <p>
             it’s true of every President and his press corps
         </p>
      </div>
     
-     <div class="step fontA" data-x="22500" data-y="-29250" data-z="67500" data-scale="1" data-autoplay="2.5" data-transition-duration="500" >
+     <div class="step fontA" data-x="22500" data-y="-29250" data-z="67500" data-scale="1" data-autoplay="4" data-transition-duration="500" >
         <p>
             But we’ve always shared the same goal –- to root our public discourse in the truth; to open the doors of this democracy; to do whatever we can to make our country and our world more free and more just
         </p>
      </div>
     
-     <div class="step fontA" data-x="22600" data-y="-29380" data-z="67800" data-scale="1" data-autoplay="1.35" data-transition-duration="500" >
+     <div class="step fontA" data-x="22600" data-y="-29380" data-z="67800" data-scale="1" data-autoplay="2.16" data-transition-duration="500" >
         <p>
             And I’ve always appreciated the role that you have all played as equal partners in reaching these goals.
         </p>
      </div>
     
-     <div class="step fontA" data-x="22700" data-y="-29510" data-z="68100" data-scale="1" data-autoplay="2.45" data-transition-duration="500" >
+     <div class="step fontA" data-x="22700" data-y="-29510" data-z="68100" data-scale="1" data-autoplay="3.92" data-transition-duration="500" >
         <p>
             And our free press is why we once again recognize the real journalists who uncovered a horrifying scandal and brought about some measure of justice for thousands of victims throughout the world
         </p>
      </div>
     
-     <div class="step fontA" data-x="22800" data-y="-29640" data-z="68400" data-scale="1" data-autoplay="1.4" data-transition-duration="500" >
+     <div class="step fontA" data-x="22800" data-y="-29640" data-z="68400" data-scale="1" data-autoplay="2.24" data-transition-duration="500" >
         <p>
             They are here with us tonight –- Sacha Pfeiffer, Mike Rezendes, Walter Robinson, Matt Carroll, and Ben Bradlee, Jr
         </p>
      </div>
     
-     <div class="step " data-x="22900" data-y="-29770" data-z="68700" data-scale="1" data-autoplay="0.45" data-transition-duration="500" >
+     <div class="step " data-x="22900" data-y="-29770" data-z="68700" data-scale="1" data-autoplay="0.72" data-transition-duration="500" >
         <p>
             Please give them a big round of applause
         </p>
      </div>
     
-     <div class="step " data-x="23000" data-y="-29900" data-z="69000" data-scale="1" data-autoplay="0.85" data-transition-duration="500" >
+     <div class="step " data-x="23000" data-y="-29900" data-z="69000" data-scale="1" data-autoplay="1.36" data-transition-duration="500" >
         <p>
             Our free press is why, once again, we honor Jason Rezaian.
         </p>
      </div>
     
-     <div class="step fontA" data-x="23100" data-y="-30030" data-z="69300" data-scale="1" data-autoplay="1.7" data-transition-duration="500" >
+     <div class="step fontA" data-x="23100" data-y="-30030" data-z="69300" data-scale="1" data-autoplay="2.72" data-transition-duration="500" >
         <p>
             As Carol noted, last time this year, we spoke of Jason’s courage as he endured the isolation of an Iranian prison
         </p>
      </div>
     
-     <div class="step fontA" data-x="23200" data-y="-30160" data-z="69600" data-scale="1" data-autoplay="3.35" data-transition-duration="500" >
+     <div class="step fontA" data-x="23200" data-y="-30160" data-z="69600" data-scale="1" data-autoplay="5.36" data-transition-duration="500" >
         <p>
             This year, we see that courage in the flesh and it’s a living testament to the very idea of a free press, and a reminder of the rising level of danger, and political intimidation, and physical threats faced by reporters overseas
         </p>
      </div>
     
-     <div class="step fontA" data-x="23300" data-y="-30290" data-z="69900" data-scale="1" data-autoplay="2.3" data-transition-duration="500" >
+     <div class="step fontA" data-x="23300" data-y="-30290" data-z="69900" data-scale="1" data-autoplay="3.68" data-transition-duration="500" >
         <p>
             And I can make this commitment that as long as I hold this office, my administration will continue to fight for the release of American journalists held against their will
         </p>
      </div>
     
-     <div class="step " data-x="23400" data-y="-30420" data-z="70200" data-scale="1" data-autoplay="0.85" data-transition-duration="500" >
+     <div class="step " data-x="23400" data-y="-30420" data-z="70200" data-scale="1" data-autoplay="1.36" data-transition-duration="500" >
         <p>
             and we will not stop until they see the same freedom as Jason had
         </p>
      </div>
     
-     <div class="step fontA" data-x="23500" data-y="-30550" data-z="70500" data-scale="1" data-autoplay="2.5" data-transition-duration="500" >
+     <div class="step fontA" data-x="23500" data-y="-30550" data-z="70500" data-scale="1" data-autoplay="4" data-transition-duration="500" >
         <p>
             At home and abroad, journalists like all of you engage in the dogged pursuit of informing citizens, and holding leaders accountable, and making our government of the people possible
         </p>
      </div>
     
-     <div class="step " data-x="23600" data-y="-30680" data-z="70800" data-scale="1" data-autoplay="0.65" data-transition-duration="500" >
+     <div class="step " data-x="23600" data-y="-30680" data-z="70800" data-scale="1" data-autoplay="1.04" data-transition-duration="500" >
         <p>
             And it’s an enormous responsibility
         </p>
      </div>
     
-     <div class="step fontA" data-x="23700" data-y="-30810" data-z="71100" data-scale="1" data-autoplay="3.05" data-transition-duration="500" >
+     <div class="step fontA" data-x="23700" data-y="-30810" data-z="71100" data-scale="1" data-autoplay="4.88" data-transition-duration="500" >
         <p>
             And I realize it’s an enormous challenge at a time when the economics of the business sometimes incentivize speed over depth; and when controversy and conflict are what most immediately attract readers and viewers.
         </p>
      </div>
     
-     <div class="step " data-x="23800" data-y="-30940" data-z="71400" data-scale="1" data-autoplay="0.95" data-transition-duration="500" >
+     <div class="step " data-x="23800" data-y="-30940" data-z="71400" data-scale="1" data-autoplay="1.52" data-transition-duration="500" >
         <p>
             The good news is there are so many of you that are pushing against those trends
         </p>
      </div>
     
-     <div class="step " data-x="23900" data-y="-31070" data-z="71700" data-scale="1" data-autoplay="0.95" data-transition-duration="500" >
+     <div class="step " data-x="23900" data-y="-31070" data-z="71700" data-scale="1" data-autoplay="1.52" data-transition-duration="500" >
         <p>
             And as a citizen of this great democracy, I am grateful for that
         </p>
      </div>
     
-     <div class="step fontA" data-x="24000" data-y="-31200" data-z="72000" data-scale="1" data-autoplay="3.2" data-transition-duration="500" >
+     <div class="step fontA" data-x="24000" data-y="-31200" data-z="72000" data-scale="1" data-autoplay="5.12" data-transition-duration="500" >
         <p>
             For this is also a time around the world when some of the fundamental ideals of liberal democracies are under attack, and when notions of objectivity, and of a free press, and of facts, and of evidence are trying to be undermined
         </p>
      </div>
     
-     <div class="step " data-x="24100" data-y="-31330" data-z="72300" data-scale="1" data-autoplay="0.5" data-transition-duration="500" >
+     <div class="step " data-x="24100" data-y="-31330" data-z="72300" data-scale="1" data-autoplay="0.8" data-transition-duration="500" >
         <p>
             Or, in some cases, ignored entirely.
         </p>
      </div>
     
-     <div class="step " data-x="24200" data-y="-31460" data-z="72600" data-scale="1" data-autoplay="1" data-transition-duration="500" >
+     <div class="step " data-x="24200" data-y="-31460" data-z="72600" data-scale="1" data-autoplay="1.6" data-transition-duration="500" >
         <p>
             And in such a climate, it’s not enough just to give people a megaphone
         </p>
      </div>
     
-     <div class="step fontA" data-x="24300" data-y="-31590" data-z="72900" data-scale="1" data-autoplay="2" data-transition-duration="500" >
+     <div class="step fontA" data-x="24300" data-y="-31590" data-z="72900" data-scale="1" data-autoplay="3.2" data-transition-duration="500" >
         <p>
             And that’s why your power and your responsibility to dig and to question and to counter distortions and untruths is more important than ever
         </p>
      </div>
     
-     <div class="step fontA" data-x="24400" data-y="-31720" data-z="73200" data-scale="1" data-autoplay="1.2" data-transition-duration="500" >
+     <div class="step fontA" data-x="24400" data-y="-31720" data-z="73200" data-scale="1" data-autoplay="1.92" data-transition-duration="500" >
         <p>
             Taking a stand on behalf of what is true does not require you shedding your objectivity
         </p>
      </div>
     
-     <div class="step " data-x="24500" data-y="-31850" data-z="73500" data-scale="1" data-autoplay="0.65" data-transition-duration="500" >
+     <div class="step " data-x="24500" data-y="-31850" data-z="73500" data-scale="1" data-autoplay="1.04" data-transition-duration="500" >
         <p>
             In fact, it is the essence of good journalism
         </p>
      </div>
     
-     <div class="step fontA" data-x="24600" data-y="-31980" data-z="73800" data-scale="1" data-autoplay="3.5" data-transition-duration="500" >
+     <div class="step fontA" data-x="24600" data-y="-31980" data-z="73800" data-scale="1" data-autoplay="5.6" data-transition-duration="500" >
         <p>
             It affirms the idea that the only way we can build consensus, the only way that we can move forward as a country, the only way we can help the world mend itself is by agreeing on a baseline of facts when it comes to the challenges that confront us all.
         </p>
      </div>
     
-     <div class="step fontA" data-x="24700" data-y="-32110" data-z="74100" data-scale="1" data-autoplay="1.95" data-transition-duration="500" >
+     <div class="step fontA" data-x="24700" data-y="-32110" data-z="74100" data-scale="1" data-autoplay="3.12" data-transition-duration="500" >
         <p>
             So this night is a testament to all of you who have devoted your lives to that idea, who push to shine a light on the truth every single day
         </p>
      </div>
     
-     <div class="step fontA" data-x="24800" data-y="-32240" data-z="74400" data-scale="1" data-autoplay="1.1" data-transition-duration="500" >
+     <div class="step fontA" data-x="24800" data-y="-32240" data-z="74400" data-scale="1" data-autoplay="1.76" data-transition-duration="500" >
         <p>
             So I want to close my final White House Correspondents’ Dinner by just saying thank you.
         </p>
      </div>
     
-     <div class="step " data-x="24900" data-y="-32370" data-z="74700" data-scale="1" data-autoplay="0.55" data-transition-duration="500" >
+     <div class="step " data-x="24900" data-y="-32370" data-z="74700" data-scale="1" data-autoplay="0.88" data-transition-duration="500" >
         <p>
             I’m very proud of what you’ve done
         </p>
      </div>
     
-     <div class="step fontA" data-x="25000" data-y="-32500" data-z="75000" data-scale="1" data-autoplay="1.3" data-transition-duration="500" >
+     <div class="step fontA" data-x="25000" data-y="-32500" data-z="75000" data-scale="1" data-autoplay="2.08" data-transition-duration="500" >
         <p>
             It has been an honor and a privilege to work side by side with you to strengthen our democracy
         </p>
      </div>
     
-     <div class="step " data-x="25100" data-y="-32630" data-z="75300" data-scale="1" data-autoplay="0.75" data-transition-duration="500" >
+     <div class="step " data-x="25100" data-y="-32630" data-z="75300" data-scale="1" data-autoplay="1.2" data-transition-duration="500" >
         <p>
             And with that, I just have two more words to say -– Obama out
         </p>
      </div>
     
-     <div class="step " data-x="25200" data-y="-32760" data-z="75600" data-scale="1" data-autoplay="0.3" data-transition-duration="500" >
+     <div class="step " data-x="25200" data-y="-32760" data-z="75600" data-scale="1" data-autoplay="0.32" data-transition-duration="500" >
         <p>
             (Drops microphone.)
         </p>

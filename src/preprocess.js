@@ -24,13 +24,13 @@ for (var i = 0; i < textarray.length; i++) {
 
         datadict['data-scale'] = 3;
         datadict['data-z'] = 99;
-        datadict['data-autoplay'] = 4;
+        datadict['data-autoplay'] = 2;
     } else if (i===1) {
         datadict['data-x'] = 5;
         datadict['data-y'] = 150;
 
         datadict['data-scale'] = 2.5;
-        datadict['data-autoplay'] = 4;
+        datadict['data-autoplay'] = 1;
         datadict['data-z'] = 66;
     } else {
         datadict['data-x'] = i*100;
@@ -41,7 +41,7 @@ for (var i = 0; i < textarray.length; i++) {
         datadict['data-scale'] = 1;
         datadict['data-z'] = 0;
         datadict['data-autoplay'] = sec;
-        datadict['data-transition-duration'] = 2000;
+        datadict['data-transition-duration'] = 1500;
     }
 
     // log(datadict)

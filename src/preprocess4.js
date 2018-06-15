@@ -118,7 +118,7 @@ function createStep(line, classes, datadict) {
 }
 
 function calcContentSeconds(content) {
-    const SECONDSPERSYLLABLE = .05;
+    const SECONDSPERSYLLABLE = .08;
     var out = Math.max(SECONDSPERSYLLABLE * syllable(content), .3);
     return Math.round(out * 100) / 100;
 }
