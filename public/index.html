@@ -5,11 +5,15 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=1024" />
     <meta name="apple-mobile-web-app-capable" content="yes" />
+
     <title>Wordplay</title>
 
     <meta name="description" content="Movable type" />
     <meta name="author" content="Sahil Gupta" />
     <meta name="theme-color" content="#e3000e">
+
+    <link rel="shortcut icon" href="favicon.png" />
+    <link rel="apple-touch-icon" href="apple-touch-icon.png" />
 
     <!-- fonts -->
     <link href="https://fonts.googleapis.com/css?family=Spectral" rel="stylesheet">
@@ -20,25 +24,33 @@
     <link href="css/reset.css" rel="stylesheet" />
     <link href="css/first.css" rel="stylesheet" />
 
-    <link rel="shortcut icon" href="favicon.png" />
-    <link rel="apple-touch-icon" href="apple-touch-icon.png" />
-
+    <!-- js utils -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/lodash@4.13.1/lodash.min.js"></script>
+
+    <!-- vue. development version, includes helpful console warnings -->
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+    <!-- production version, optimized for size and speed -->
+    <!-- <script src="https://cdn.jsdelivr.net/npm/vue"></script> -->
+
     <script>console.log('Hi there, devs!\nhttps://youtu.be/IhJQp-q1Y1s');</script>
 </head>
 
 <body class="">
 
-<div id="impress-first" data-transition-duration="1500" data-perspective="1000" data-autoplay="1" >
-
+    <div id="app">
+  <button-counter></button-counter>
 </div>
 
 
-<div id="impress-toolbar"></div>
-<div class="impress-progressbar"><div></div></div>
+    <!-- <div id="impress-first" data-transition-duration="1500" data-perspective="1000" data-autoplay="1" >
 
-<script type="text/javascript" src="js/impress.min.js"></script>
-<script type="text/javascript" src="js/first.js"></script>
+    </div>
+    <div id="impress-toolbar"></div>
+    <div class="impress-progressbar"><div></div></div> -->
+
+    <script type="text/javascript" src="js/impress.min.js"></script>
+    <script type="text/javascript" src="js/first.js"></script>
 
 </body>
 </html>
