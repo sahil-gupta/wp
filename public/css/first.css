@@ -2,12 +2,12 @@ body {
     font-family: 'Spectral', sans-serif;
     min-height: 740px;
 
-    background: #192a56;
+    /*background: #192a56;*/
     /*background: #44bd32;*/
-    /*background: white;*/
+    background: #fafafa;
     /*background: #2e86de;*/
-    color: #f5f6fa;
-    /*color: black;*/
+    /*color: #f5f6fa;*/
+    color: black;
 }
 b, strong {
     font-weight: bold;

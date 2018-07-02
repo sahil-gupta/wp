@@ -32,15 +32,27 @@
     <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
     <!-- production version, optimized for size and speed -->
     <!-- <script src="https://cdn.jsdelivr.net/npm/vue"></script> -->
+    <!-- vue router -->
+    <script src="https://unpkg.com/vue-router/dist/vue-router.js"></script>
 
-    <script>console.log('Hi there, devs!\nhttps://youtu.be/IhJQp-q1Y1s');</script>
+
 </head>
 
 <body class="">
 
     <div id="app">
-  <button-counter></button-counter>
-</div>
+      <h1>Hello App!</h1>
+      <p>
+        <!-- use router-link component for navigation. -->
+        <!-- specify the link by passing the `to` prop. -->
+        <!-- `<router-link>` will be rendered as an `<a>` tag by default -->
+        <router-link to="/foo">Go to Foo</router-link>
+        <router-link to="/bar">Go to Bar</router-link>
+      </p>
+      <!-- route outlet -->
+      <!-- component matched by the route will render here -->
+      <router-view></router-view>
+    </div>
 
 
     <!-- <div id="impress-first" data-transition-duration="1500" data-perspective="1000" data-autoplay="1" >
@@ -51,6 +63,6 @@
 
     <script type="text/javascript" src="js/impress.min.js"></script>
     <script type="text/javascript" src="js/first.js"></script>
-
+    <script>console.log('Hi there, devs!\nhttps://youtu.be/IhJQp-q1Y1s');</script>
 </body>
 </html>
